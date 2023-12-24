@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @vishal24giri
-- 👀 I’m interested in IOT and robotics
-- 🌱 I’m currently learning to build websites 
-- 💞️ I’m looking to collaborate on web app development
-- 📫 How to reach me via vishal24giri@gmail.com
+Hi there...! 
+I'm Vishal and welcome to my GitHub profile...!!!
+I've started posting things I have worked on previously and  will be adding current projects that I am working on. 
+You can reach out to me through email at vishal24giri@gmail.com 
+Thanks for visiting
+See you soon, bye for now...
 
-<!---
-vishal24giri/vishal24giri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
